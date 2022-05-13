@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"MeleRoccoClass","l":"cognomeMet(int)"},{"p":"<Unnamed>","c":"MeleRoccoClass","l":"main(String[])","url":"main(java.lang.String[])"},{"p":"<Unnamed>","c":"MeleRoccoClass","l":"MeleRoccoClass()","url":"%3Cinit%3E()"}]
