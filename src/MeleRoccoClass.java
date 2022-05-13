@@ -19,6 +19,11 @@ public class MeleRoccoClass {
 	 * 
 	 * @param f indice massimo dove si ferma il ciclo
 	 * @return valore dato dalla somma dei numeri compresi tra l'indice 0 ed f
+	 * 
+	 * 
+	 *  PRIMO ERRORE: r deve essere inizializzato a 0
+	 *  SECONDO ERRORE: nel ciclo for i deve essere uguale a 0 e minore di f
+	 *  e bisogna fare la somma dei valori non il prodotto
 	 */
 	
 	public int cognomeMet(int f) {
